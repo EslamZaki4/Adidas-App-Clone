@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304897912105",
+    "project_id": "adidas-82374",
+    "storage_bucket": "adidas-82374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304897912105:android:125b629fdb8975840a1b38",
+        "android_client_info": {
+          "package_name": "Adidas.Clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304897912105-h45ji21sr7en4l0g4jtfo0hst2869ti3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw6PZ6tNF7QE34-36einB0Aid2aeis8Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304897912105-cjpmo31v6f46rqmvgif61mno9n1hlkcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
